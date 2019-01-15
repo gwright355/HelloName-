@@ -6,7 +6,12 @@ namespace HelloName_
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string name = "Glenn Wright";
+           
+
+            Console.WriteLine(name);
+
+            Console.ReadKey(true);
         }
     }
 }
